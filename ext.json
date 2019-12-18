@@ -5,7 +5,7 @@
   "area": "themes",
   "version": "1.2.2",
   "description": "Hides the tag and note bar in Standard Note desktop",
-  "download_url": "https://github.com/mindovermiles262/no-distraction-theme/archive/1.2.2.zip"
+  "download_url": "https://github.com/mindovermiles262/no-distraction-theme/archive/1.2.2.zip",
   dock_icon: {
     type: "circle",
     background_color: "#086DD6",
