@@ -1,0 +1,9 @@
+{
+  "identifier": "com.andyduss.standardnotes.themes.nodistraction",
+  "name": "No Distraction Theme",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.2.2",
+  "description": "Hides the tag and note bar in Standard Note desktop",
+  "download_url": "https://github.com/sn-extensions/no-distraction-theme/archive/1.2.2.zip"
+}
