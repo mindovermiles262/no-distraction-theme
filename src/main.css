@@ -1,0 +1,24 @@
+#footer-bar {
+  opacity: 0.08;
+  transition: opacity 0.25s;
+}
+
+#footer-bar:hover {
+  opacity: 1.0;
+}
+
+#notes-title-bar {
+    display: none;
+}
+
+notes-view {
+    display: none;
+}
+
+navigation {
+    display: none;
+}
+
+#editor-title-bar {
+  padding-left: 65px;
+}

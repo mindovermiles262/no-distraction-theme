@@ -3,13 +3,7 @@
   "name": "No Distraction Theme",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.2.2",
+  "version": "2.0.0",
   "description": "Hides the tag and note bar in Standard Note desktop",
-  "download_url": "https://github.com/mindovermiles262/no-distraction-theme/archive/1.2.2.zip",
-  "dock_icon": {
-    "type": "circle",
-    "background_color": "#086DD6",
-    "foreground_color": "#ffffff",
-    "border_color": "#086DD6"
-  }
+  "download_url": "http://localhost:8080/nd.zip"
 }
