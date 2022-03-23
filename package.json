@@ -1,6 +1,6 @@
 {
   "name": "sn-theme-no-distraction",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "main": "src/main.css",
   "sn": {
     "main": "src/main.css"

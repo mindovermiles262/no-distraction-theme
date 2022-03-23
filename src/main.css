@@ -11,11 +11,11 @@
     display: none;
 }
 
-notes-view {
+#notes-column {
     display: none;
 }
 
-navigation {
+#navigation {
     display: none;
 }
 
