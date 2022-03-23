@@ -1,9 +1,9 @@
 {
   "name": "sn-theme-no-distraction",
-  "version": "2.1.1",
-  "main": "src/main.css",
+  "version": "2.1.2",
+  "main": "ndt.css",
   "sn": {
-    "main": "src/main.css"
+    "main": "ndt.css"
   },
   "repository": {
     "type": "git",
